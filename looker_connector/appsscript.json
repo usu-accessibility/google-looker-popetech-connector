@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "libraries": []
+  },
+  "dataStudio": {
+    "name": "Popetech Connector",
+    "logoUrl": "https://avatars.githubusercontent.com/u/28656957?v=4",
+    "company": "USU Accessibility",
+    "companyUrl": "https://github.com/usu-accessibility",
+    "addonUrl": "https://github.com/usu-accessibility/google-looker-popetech-connector/blob/main/README.md",
+    "supportUrl": "https://github.com/usu-accessibility/google-looker-popetech-connector/issues",
+    "description": "Connects Popetech website scan data to google looker.",
+    "sources": ["Popetech"],
+    "authType": ["NONE"],
+    "feeType": ["FREE"]
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
